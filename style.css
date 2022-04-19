@@ -25,6 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.Jeremiah-style {
+    color: aqua;
+    background-color: crimson;
+    padding: 3px;
+}
+
 .Richard-style {
     color: blue;
     background-color: black;
